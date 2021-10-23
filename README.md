@@ -6,15 +6,13 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/counter?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/counter?style=for-the-badge)
 
-<img src="counter.png" alt="counter">
-
 > Um contador feito com javascript 
 
 ## ☕ Usando Counter
 
 Para usar Counter, clique no link abaixo:
 
-[![Abrir com Netlifly]]()
+[![Abrir com Netlifly]](https://happy-shockley-d71c53.netlify.app/)
 
 ## 🤝 Colaborador
 
