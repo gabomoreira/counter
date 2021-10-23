@@ -1,7 +1,7 @@
 # Counter
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabomoreira/counter?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/counter/gabomoreira/blackjack?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gabomoreira/counter?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/gabomoreira/counter?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/counter?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/counter?style=for-the-badge)
