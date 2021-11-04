@@ -1,18 +1,20 @@
-# Counter
+# Contador
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gabomoreira/counter?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/gabomoreira/counter?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/gabomoreira/counter?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/counter?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/counter?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/gabomoreira/contador?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/counter/gabomoreira/contador?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/gabomoreira/contador?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/contador?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/contador?style=for-the-badge)
 
-> Um contador feito com javascript 
+<img src="img.png" alt="foto do contador">
 
-## ☕ Usando Counter
+> Um contador feito com HTML, CSS e javascript. 
 
-Para usar Counter, clique no link abaixo:
+## ☕ Usando Contador
 
-[![Abrir com Netlifly]](https://happy-shockley-d71c53.netlify.app/)
+Para usar Contador, clique no link abaixo:
+
+[![Abrir com Netlifly]]()
 
 ## 🤝 Colaborador
 
