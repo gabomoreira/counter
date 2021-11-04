@@ -14,7 +14,7 @@
 
 Para usar Contador, clique no link abaixo:
 
-[![Abrir com Netlifly]]()
+[![Abrir com Netlifly]](https://contador-aumenta-diminui.netlify.app/)
 
 ## 🤝 Colaborador
 
